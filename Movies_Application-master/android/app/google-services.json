@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788306560489",
+    "project_id": "movies-application-fca3d",
+    "storage_bucket": "movies-application-fca3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788306560489:android:4c22225148758723017778",
+        "android_client_info": {
+          "package_name": "com.example.movie_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788306560489-tne45t5qplmt4bn1b0chk29tne26i03g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-ci2huKsNYlaVum2ZpEFTzqXAvh4Rzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788306560489-tne45t5qplmt4bn1b0chk29tne26i03g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
